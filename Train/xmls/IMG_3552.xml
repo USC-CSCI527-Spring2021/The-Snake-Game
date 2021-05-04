@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Down</folder>
+	<filename>IMG_3552.JPG</filename>
+	<path>/Users/nikhilwani/Desktop/527/nikhil_imgs_up_down_left_right/Down/IMG_3552.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>1144</ymin>
+			<xmax>3024</xmax>
+			<ymax>3475</ymax>
+		</bndbox>
+	</object>
+</annotation>

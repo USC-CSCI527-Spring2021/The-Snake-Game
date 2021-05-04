@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Left</folder>
+	<filename>IMG_3622.JPG</filename>
+	<path>/Users/nikhilwani/Desktop/527/nikhil_imgs_up_down_left_right/Left/IMG_3622.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>931</ymin>
+			<xmax>2827</xmax>
+			<ymax>2481</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20210227T042851Z-001</folder>
+	<filename>IMG_20210226_201458.jpg</filename>
+	<path>/Users/sharadsharma/Documents/MLForGames/project/right_images/input/right/drive-download-20210227T042851Z-001/IMG_20210226_201458.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>1121</ymin>
+			<xmax>2861</xmax>
+			<ymax>2988</ymax>
+		</bndbox>
+	</object>
+</annotation>

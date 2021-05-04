@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Hand_0000062 - Copy.jpg</filename>
+	<path>C:\Users\karth\Downloads\Down-20210302T180516Z-001\Down\KARTHIK_DOWN\images\Hand_0000062 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>2</ymin>
+			<xmax>1352</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+</annotation>

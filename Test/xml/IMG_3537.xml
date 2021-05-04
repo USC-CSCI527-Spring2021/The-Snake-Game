@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Up</folder>
+	<filename>IMG_3537.JPG</filename>
+	<path>/Users/nikhilwani/Desktop/527/nikhil_imgs_up_down_left_right/Up/IMG_3537.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>469</ymin>
+			<xmax>2902</xmax>
+			<ymax>3262</ymax>
+		</bndbox>
+	</object>
+</annotation>
